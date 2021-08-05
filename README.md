@@ -1,2 +1,3 @@
-# kodluyoruzjsodev2
-Kodluyoruz frontend eğitim serisi javascript ödev 2 To Do List
+# JavaScript ToDoList
+
+Kodluyoruz frontend eğitim serisi JavaScript dersi ikinci ödevi olarak ToDoList projesi yazdım.
