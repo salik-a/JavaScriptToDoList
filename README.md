@@ -1,7 +1,7 @@
 # JavaScript ToDoList
 
 ### Kodluyoruz frontend eğitim serisi JavaScript dersi ikinci ödevi olarak ToDoList projesi yazdım.
- 
+### Projeye şuradan ulaşabilirsiniz:  https://salik-a.github.io/JavaScriptToDoList/
 <div>
 <p> Yapacağınız etkinliği input kısmına yazıp ekle butonu ile ekleyebilirsiniz. </p>
 <img src="ss1.png" alt="Instagram Login Page" width="1000" height="500"/>
